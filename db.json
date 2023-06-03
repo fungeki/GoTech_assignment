@@ -1,0 +1,61 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "What language is your favorite?",
+      "type": 0,
+      "isRequired": true,
+      "answers": [
+        {
+          "id": 0,
+          "title": "Dart"
+        },
+        {
+          "id": 1,
+          "title": "Kotlin",
+          "isMultiAnswer": true
+        },
+        {
+          "id": 2,
+          "title": "Grandmizer"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "What language is your favorite?",
+      "type": 0,
+      "isRequired": false,
+      "answers": [
+        {
+          "id": 0,
+          "title": "Dart"
+        },
+        {
+          "id": 1,
+          "title": "Kotlin"
+        },
+        {
+          "id": 2,
+          "title": "Grandmizer"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tell me about yourself?",
+      "type": 1,
+      "hint": "Write here...",
+      "isRequired": true
+    },
+    {
+      "id": 4,
+      "title": "Anything else you want to add?",
+      "type": 1,
+      "hint": "Open text...",
+      "isRequired": false
+    }
+  ],
+  "answers": [
+  ]
+}
